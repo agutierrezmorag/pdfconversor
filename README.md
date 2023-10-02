@@ -21,3 +21,9 @@ pero no cambies el orden ni la estructura del texto.`
 Sin embargo, algunos errores persisten, sobre todo con ciertos caracteres especiales.
 
 El tiempo de operación entre ambas opciones fue similar.
+
+## Resultados
+
+`easyocr.txt` para resultados del script local.
+
+`online converter.txt` para resultados de la herramienta online
