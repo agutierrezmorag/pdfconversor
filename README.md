@@ -8,7 +8,8 @@ Conversor de PDF > imagen > texto.
 
 # Testing
 
-Se realizó la transcripción de las páginas 5-10 del reglamento regimen general de estudios, mediante una 
+Se realizó la transcripción de las páginas 5-10 del 
+[reglamento regimen general de estudios](documentos/reglamento_regimen_general_de_estudios.pdf), mediante una 
 [herramienta online](https://www.online-convert.com/) y luego de manera local con las librerías `pdf2image` para la separación 
 de cada página del pdf por imágenes y `easyocr` para la transcripción de dichas imágenes.
 
@@ -19,8 +20,6 @@ siguiente prompt:
 pero no cambies el orden ni la estructura del texto.`
 
 Sin embargo, algunos errores persisten, sobre todo con ciertos caracteres especiales.
-
-El tiempo de operación entre ambas opciones fue similar.
 
 ## Resultados
 
